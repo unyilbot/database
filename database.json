@@ -141,6 +141,13 @@
       "saldo": 0,
       "deposit_history": [
         {
+          "nominal": 574220,
+          "status": "cancelled",
+          "id": "s55YHrLzeZB3kLF54bZ3",
+          "reff_id": "DEP1752925744698",
+          "tanggal": "2025-07-19T11:49:08.034Z"
+        },
+        {
           "nominal": 10272,
           "status": "cancelled",
           "id": "dLfPYDzCvjXPpfTn9uGh",
