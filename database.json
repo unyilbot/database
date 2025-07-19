@@ -163,11 +163,11 @@
       ]
     },
     "7146673353": {
-      "saldo": 1000,
+      "saldo": 2000,
       "deposit_history": [
         {
           "nominal": 1208,
-          "status": "pending",
+          "status": "success",
           "id": "j4YHE1xadQ6omAzdAtmj",
           "reff_id": "DEP1752912291285",
           "tanggal": "2025-07-19T08:04:54.793Z"
@@ -194,15 +194,7 @@
           "tanggal": "2025-07-18T14:36:12.098Z"
         }
       ],
-      "total_deposit": 1000,
-      "status_deposit": {
-        "id": "j4YHE1xadQ6omAzdAtmj",
-        "reff_id": "DEP1752912291285",
-        "nominal": 1208,
-        "status": true,
-        "expired": "2025-07-19 16:04:52",
-        "message_id": 788
-      }
+      "total_deposit": 2000
     },
     "5807484768": {
       "saldo": 0
